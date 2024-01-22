@@ -12,6 +12,7 @@ En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier q
 
 En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en programmation, j'ai plusieurs loisirs : 
 - 🎻 le violon (apprentissage depuis plus de 2 ans)
+- 🎲 le jeu de rôle (je participe à plusieurs scénarios en tant que joueuse)
 - 🎮 les jeux vidéo (surtout les RPG d'heroic fantasy et les jeux de stratégie)
 - 🎨 les loisirs créatifs (principalement le dessin, mais je varie les plaisirs)
 - 🚶‍♀️ la randonnée (parfois combinée aux photos animalères)
