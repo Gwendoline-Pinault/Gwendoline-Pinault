@@ -25,10 +25,10 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 - NodeJS
 - PostgreSQL
 
-## Apprentissage en vue
+## Apprentissage en cours
 - Python
 - Java
-- Angular
+- C++
 
 ## Me contacter
 Via Linkedin (lien sur mon profil GitHub) ou sur mes coordonnées directes que vous avez sur mon CV 🙂
