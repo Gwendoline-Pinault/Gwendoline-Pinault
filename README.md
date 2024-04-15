@@ -8,7 +8,7 @@
 
 Bonjour, je m'appelle Gwendoline Pinault.
 
-En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui.
+En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", je suis à la **recherche d'un poste de développeur à Brest ou alentours**.
 
 En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en programmation, j'ai plusieurs loisirs : 
 - 🎻 le violon (apprentissage depuis plus de 2 ans)
