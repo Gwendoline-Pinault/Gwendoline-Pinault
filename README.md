@@ -31,4 +31,5 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 - C++
 
 ## Me contacter
-Via Linkedin (lien sur mon profil GitHub) ou sur mes coordonnées directes que vous avez sur mon CV 🙂
+- par mail : pinaultgwendoline@gmail.com 
+- via Linkedin (lien sur mon profil GitHub)
