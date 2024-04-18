@@ -29,6 +29,7 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 - Python
 - Java
 - C++
+- PHP
 
 ## Me contacter
 - par mail : pinaultgwendoline@gmail.com 
