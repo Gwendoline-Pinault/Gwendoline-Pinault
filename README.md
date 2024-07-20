@@ -8,13 +8,13 @@
 
 Bonjour, je m'appelle Gwendoline Pinault.
 
-En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", je suis à la **recherche d'un poste de développeur à Brest ou alentours**.
+En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", je poursuis ma reconversion avec une année d'étude en alternance pour obtenir le Titre de "Concepteur développeur d'applications" à compter de septembre 2024.
 
 En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en programmation, j'ai plusieurs loisirs : 
 - 🎻 le violon (apprentissage depuis plus de 2 ans)
 - 🎲 le jeu de rôle (je participe à plusieurs scénarios en tant que joueuse)
 - 🎮 les jeux vidéo (surtout les RPG d'heroic fantasy et les jeux de stratégie)
-- 🎨 les loisirs créatifs (principalement le dessin, mais je varie les plaisirs)
+- 🎨 les loisirs créatifs (principalement le dessin et le point de croix)
 - 🚶‍♀️ la randonnée (parfois combinée aux photos animalères)
 
 ## Mon stack actuel
@@ -24,12 +24,12 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 - Tailwind
 - NodeJS
 - PostgreSQL
+- PHP
+- Python
 
 ## Apprentissage en cours
-- Python
 - Java
 - C++
-- PHP
 
 ## Me contacter
 - par mail : pinaultgwendoline@gmail.com 
