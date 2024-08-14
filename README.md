@@ -33,4 +33,4 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 
 ## Me contacter
 - par mail : pinaultgwendoline@gmail.com 
-- via Linkedin (lien sur mon profil GitHub)
+- via Linkedin : www.linkedin.com/in/gwendoline-pinault
