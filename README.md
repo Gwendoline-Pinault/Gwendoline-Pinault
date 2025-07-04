@@ -21,11 +21,11 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 ## Mon stack actuel
 - HTML / CSS / SCSS (la base quand on est développeur web vous me direz)
 - JavaScript / TypeScript
-- React 
+- React (expérience d'un an)
 - Tailwind
 - NodeJS
 - PostgreSQL / MySQL
-- PHP / Symfony
+- PHP / Symfony (expérience d'un an)
 - Python
 - Java
 
