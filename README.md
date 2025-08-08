@@ -8,7 +8,7 @@
 
 Bonjour, je m'appelle Gwendoline Pinault.
 
-En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", je poursuis ma reconversion avec une année d'étude en alternance pour obtenir le Titre de "Concepteur développeur d'applications" à compter de septembre 2024.
+En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", j'ai réalisé une année d'alternance pour obtenir le titre professionnel "Concepteur Développeur d'Applications".
 
 En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en programmation, j'ai plusieurs loisirs : 
 - 🏌🏻‍♀️ le golf 
@@ -19,15 +19,15 @@ En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en
 
 
 ## Mon stack actuel
-- HTML / CSS / SCSS (la base quand on est développeur web vous me direz)
+- HTML / CSS / SCSS / Tailwind
 - JavaScript / TypeScript
 - React (expérience d'un an)
-- Tailwind
 - NodeJS
 - PostgreSQL / MySQL
 - PHP / Symfony (expérience d'un an)
 - Python
-- Java
+- Java (notions)
+- Docker
 
 
 ## Me contacter
