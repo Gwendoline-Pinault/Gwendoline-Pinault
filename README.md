@@ -8,20 +8,20 @@
 
 Bonjour, je m'appelle Gwendoline Pinault.
 
-En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", j'ai réalisé une année d'alternance et j'ai obtenu le titre professionnel "Concepteur Développeur d'Applications". Je recherche désormais une alternance pour poursuivre avec un master et augmenter mon expertise.
+En 2023, j'ai fait une reconversion pour devenir développeuse web, un métier qui me passionne aujourd'hui. Suite à l'obtention de mon Titre professionnel "Développeur web et web mobile", j'ai réalisé une année d'alternance et j'ai obtenu le titre professionnel "Concepteur Développeur d'Applications". Je poursuis actuellement un master en alternance afin d'obtenir le titre professionnel "Expert en Développement Full Stack".
 
 En dehors d'apprendre de nouveaux langages ou de faire des projets personnels en programmation, j'ai plusieurs loisirs : 
 - 🏌🏻‍♀️ le golf et la randonnée
 - 🎲 le jeu de rôle (je participe à plusieurs scénarios en tant que joueuse)
 - 🎮 les jeux vidéo (surtout les RPG d'heroic fantasy et les jeux de stratégie)
-- 🎨 l'écriture (j'écris un roman)
+- 🎨 l'écriture
 - 🎻 la musique (je joue du violon et j'adore chanter)
 
 
 ## Mon stack actuel
 - HTML / CSS / SCSS / Tailwind
 - JavaScript / TypeScript
-- React (expérience d'un an en entreprise)
+- React / TypeScript (expérience d'un an en entreprise)
 - Node.js
 - PostgreSQL / MySQL
 - PHP / Symfony (expérience d'un an en entreprise)
